@@ -19,4 +19,4 @@ I specialize in building scalable systems with a focus on Kotlin Multiplatform (
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/guido-roos91/) | [Interactive Portfolio](https://rxresu.me/guidoroos/guido-roos)
+[LinkedIn](https://www.linkedin.com/in/guido-roos91/) |  [Interactive Portfolio](https://guidoroos.github.io/personalwebsite/)
