@@ -13,8 +13,8 @@ I specialize in building scalable systems with a focus on Kotlin Multiplatform (
 * **[SwiftRecipeManager](https://github.com/guidoroos/SwiftRecipeManager)**: A native iOS showcase of declarative UI (SwiftUI) and REST API integration.
 
 ### 🛠 Tech Stack
-**Languages:** Kotlin (Multiplatform, JS, JVM), Swift, Java, JavaScript  
-**Mobile:** Jetpack Compose, SwiftUI, CameraX, KMM  
+**Languages:** Kotlin, Swift, Java, JavaScript  
+**Mobile:** KMM, Android, iOS
 
 ---
 
