@@ -1,16 +1,22 @@
-## Hi there 👋
+# Guido Roos 👋
+**Senior Software Engineer | Mobile Native, KMP, & AI Integration**
 
-<!--
-**guidoroos/guidoroos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building scalable systems with a focus on Kotlin Multiplatform (KMP), modern Android (Compose), and Native iOS (SwiftUI). 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+* **[Personal Portfolio](https://github.com/guidoroos/personalwebsite)**: My professional hub, built entirely with **Kotlin/JS**.
+* **[AutoChef](https://play.google.com/store/apps/details?id=com.guidoroos.cookbook)**: A production Android app using Gemini Pro to transform recipe photos into structured data.
+* **[OcrGeminiSampleProject](https://github.com/guidoroos/OcrGeminiSampleProject)**: The core engine behind AutoChef, showcasing CameraX and Google ML Kit integration.
+* **[SwiftRecipeManager](https://github.com/guidoroos/SwiftRecipeManager)**: A native iOS showcase of declarative UI (SwiftUI) and REST API integration.
+
+### 🛠 Tech Stack
+**Languages:** Kotlin (Multiplatform, JS, JVM), Swift, Java, JavaScript  
+**Mobile:** Jetpack Compose, SwiftUI, CameraX, KMM  
+
+---
+
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/guido-roos91/) | [Interactive Portfolio](https://rxresu.me/guidoroos/guido-roos)
